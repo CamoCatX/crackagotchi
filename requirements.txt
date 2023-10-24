@@ -1,26 +1,25 @@
 pycryptodome==3.9.4
-requests==2.21.0
-PyYAML==5.4
 requests==2.31.0
+PyYAML==5.4
 scapy==2.4.3
 gym==0.14.0
-scipy==1.10.0
+scipy==1.10.0rc1
 stable-baselines==2.7.0
 tensorflow==2.11.1
 tensorflow-estimator==1.14.0
 tweepy==3.7.0
 file-read-backwards==2.0.0
-numpy==1.22.0
+numpy==1.22.2r
 inky==1.2.0
 smbus2==0.3.0
 Pillow==10.0.1
 spidev==3.4
 gast==0.2.2
-flask==1.0.2
+flask==2.2.5
 flask-cors==3.0.9
 flask-wtf==0.14.3
 dbus-python==1.2.12
 toml==0.10.0
 python-dateutil==2.8.1
-websockets==9.1
-urllib3>=1.26.18 # not directly required, pinned by Snyk to avoid a vulnerability
+websockets==10.0
+urllib3>=1.26.17 # not directly required, pinned by Snyk to avoid a vulnerability
