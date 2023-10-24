@@ -2,8 +2,8 @@ pycryptodome==3.9.4
 requests==2.31.0
 PyYAML==5.4
 scapy==2.4.3
+scipy>=1.10.0
 gym==0.14.0
-scipy==1.10.0rc1
 stable-baselines==2.7.0
 tensorflow==2.11.1
 tensorflow-estimator==1.14.0
