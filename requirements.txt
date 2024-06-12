@@ -1,5 +1,5 @@
 pycryptodome==3.19.1
-requests==2.31.0
+requests==2.32.2
 PyYAML==5.4
 scapy==2.4.3
 scipy>=1.10.0
